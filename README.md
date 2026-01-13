@@ -275,7 +275,7 @@ This project is licensed under the MIT License - feel free to use, modify, and d
 
 **Created by Fjord** 🌊
 
-Special thanks to the TAU Discord community for testing and feedback!
+Special thanks to the TAU Discord community for testing and feedback, and to Tony's computer for crashing enough to motivate me to write this! ;)
 
 ---
 
